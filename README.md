@@ -24,7 +24,10 @@ Your application needs to be ready for beta tests, so it needs to have tests, ke
 
 In order to run the project you should do the following:
 
-Firstly, you should download the project by clicking of the green button "code" and then clicking on "Download ZIP".
+Firstly, you should download the project by clicking of the green button "code" and then clicking on "Download ZIP". 
+Watch the below short video:
+[![Build-A-Storefront-Backend-v2](https://img.youtube.com/vi/zkpTweDWEis/0.jpg)](https://www.youtube.com/watch?v=zkpTweDWEis)
+
 
 Secondly, you should download node.js in you machine (You can download node.js from the following link: https://nodejs.org/en/download/)
 
